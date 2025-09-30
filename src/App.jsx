@@ -31,6 +31,7 @@ function App() {
           fontSize: "1.5rem",
           padding: "20px 40px",
           minWidth: "250px",
+          backgroundColor: "#967bd3",
         }}
       >
         Actual
